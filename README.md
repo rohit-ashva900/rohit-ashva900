@@ -1,6 +1,6 @@
 # Hello There, I'm Rohit! 👋
 
-Front-End Developer. Learning more about Next.js and accessibility in Web.
+Front-End Developer. Learning more about react.js and accessibility in Web.
 
 🔭 I’m currently live in poland.
 
