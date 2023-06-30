@@ -1,10 +1,10 @@
 # Hello There, I'm Rohit! 👋
 
-Front-End Developer. Learning more about React.js and accessibility in Web.
+Front-End Developer. Learning more about React.js and accessibility in the Web.
 
-🔭 I’m currently live in poland.
+🔭 I currently live in Poland.
 
-- 🌱 I’m currently learning Front-End Developer path..
+- 🌱 I’m currently learning  full-stack development
 - 💬 Ask me about anything, I am happy to help
 
 ### Connect With Me
