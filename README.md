@@ -25,8 +25,12 @@ Python Developer. Learning more about Django and Flask for web development.
 ### Languages and Tools
 
 <div> 
-    <code><img height="36" width="36"  src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
-<code><img height="36" width="36"  src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+    <code><img height="36" width="36"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png"></code>
+    <code><img height="36" width="36"  src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png"></code> 
+    <code><img height="36" width="36"  src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"></code>
+        <code><img height="36" width="36"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png"></code>
+        <code><img height="36" width="36"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"></code>
+        <code><img height="36" width="36"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png"></code>
     <code><img height="36" width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png" alt="NextJS" height="36" width="36"/> </a>
     <a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="sass" height="36" width="42"/> </a> 
