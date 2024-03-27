@@ -1,11 +1,12 @@
 # Hello There, I'm Rohit! 👋
 
-Front-End Developer. Learning more about React.js and accessibility on the Web.
+Python Developer. Learning more about Django and Flask for web development.
 
 🔭 I currently live in Poland.
 
-- 🌱 I’m currently learning  full-stack development
-- 💬 Ask me about anything, I am happy to help
+- 🌱 I’m currently learning Django and Flask for web development
+- 💬 Ask me about anything related to Python, I am happy to help
+
 
 ### Connect With Me
 
