@@ -1,10 +1,9 @@
 # Hello There, I'm Rohit! 👋
 
-Python Developer. Learning more about Django and Flask for web development.
-
+Python for data analysis
 🔭 I currently live in Poland.
 
-- 🌱 I’m currently learning Django and Flask for web development
+- 🌱 I’m currently learning  and Focused on mastering data analysis techniques.
 - 💬 Ask me about anything related to Python, I am happy to help
 
 
@@ -26,7 +25,7 @@ Python Developer. Learning more about Django and Flask for web development.
 
 <div> 
     <code><img height="36" width="36"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png"></code>
-    <code><img height="36" width="36"  src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png"></code> 
+<!--     <code><img height="36" width="36"  src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png"></code>  -->
     <code><img height="36" width="36"  src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"></code>
         <code><img height="36" width="36"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1200px-ChatGPT_logo.svg.png"></code>
         <code><img height="36" width="36"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"></code>
