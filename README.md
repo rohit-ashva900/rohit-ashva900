@@ -1,10 +1,10 @@
 # Hello There, I'm Rohit! 👋
 
-Python for data analysis
+Software Engineer specializing in Python
 🔭 I currently live in Poland.
 
-- 🌱 I’m currently learning  and Focused on mastering data analysis techniques.
-- 💬 Ask me about anything related to Python, I am happy to help
+🌱 I’m currently learning and focused on mastering software development techniques.
+💬 Ask me about anything related to Python; I am happy to help.
 
 
 ### Connect With Me
