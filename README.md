@@ -27,6 +27,7 @@ Welcome to my GitHub! I'm a **Data Engineer** with a strong background in **Pyth
 ---
 
 ## 📂 Featured Projects
+🚀 **[Apache Airflow ETL for Amazon](https://github.com/rohit-ashva900/apache_airflow_ETL_amazon)** – Built an ETL pipeline using Apache Airflow to process Amazon data.
 🚀 **[Azure Data Engineering Pipeline](#)** – Extracted data from GitHub, stored in Azure Data Lake, processed with Azure Data Factory & analyzed using Databricks.  
 ⚡ **[Apache Airflow Data Workflow](#)** – Developed an automated ETL pipeline using Airflow and PostgreSQL.  
 🔍 **[Web Scraping for Market Research](#)** – Scraped and analyzed market trends from multiple sources.  
