@@ -36,8 +36,7 @@ Welcome to my GitHub! I'm a **Data Engineer** with a strong background in **Pyth
 ---
 
 ## 📞 Contact Me
-📧 **Email:** your.email@example.com  
-🔗 **LinkedIn:** [linkedin.com/in/ruthashu](#)  
-🌐 **Portfolio:** [ruthashu.dev](#) (If available)
+📧 **Email:** rohit.ashva900@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/rohit-ashva/
 
 Looking forward to collaborating on exciting projects! 🚀
