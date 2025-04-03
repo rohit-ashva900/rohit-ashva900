@@ -1,4 +1,4 @@
-# Hi, I'm Ruth Ashu 👋
+# Hi, I'm Rohit Ashva 👋
 
 ## 🚀 Data Engineer | Freelancer | Python & SQL Expert
 
