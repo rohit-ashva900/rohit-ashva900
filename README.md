@@ -1,15 +1,16 @@
 # Hi, I'm Rohit Ashva 👋
 
-## 🚀 Data Engineer | Freelancer | Python, SQL & Web Scraping Specialist
+## 🚀 Data Engineer | Freelancer | Python, Web Scraping & API Integration Specialist
 
-Welcome to my GitHub! I'm a **Data Engineer and Automation Expert** with strong experience in **Python**, **SQL**, and **cloud platforms like AWS and Azure**. I specialize in **web scraping, data extraction, and building custom automation bots** for real-world business use cases.
+Welcome to my GitHub! I'm a **Data Engineer and Automation Expert** with strong experience in **Python**, **SQL**, and **cloud platforms like AWS and Azure**. I specialize in **web scraping, API integration, and building fast, scalable automation tools** for real-world business use cases.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Python 🐍, SQL 🗄️  
+- **Languages & Frameworks:** Python 🐍, SQL 🗄️, FastAPI ⚡, Flask 🌐  
 - **Web Scraping & Automation:** Playwright 🎭, Selenium 🕷️, Scrapy 🧱, BeautifulSoup 🍜, Requests 🔗  
+- **API Development & Integration:** REST APIs, OAuth2, token-based auth, `requests`, **FastAPI**, **Flask**  
 - **PDF & Document Parsing:** PyMuPDF 📄, pdfplumber  
 - **Data Processing:** pandas 🐼, JSON, CSV, Excel  
 - **Cloud Platforms:**  
@@ -22,12 +23,13 @@ Welcome to my GitHub! I'm a **Data Engineer and Automation Expert** with strong 
 
 ## 💼 Services I Offer
 
-- 🔄 **Web Scraping & Crawling** – Static and dynamic site scraping using Playwright/Selenium  
-- 📄 **PDF & Document Extraction** – Extract tabular and structured data from PDFs  
-- 🔗 **API Integration** – Pull and format data from public/private APIs  
-- 📊 **Data Formatting** – Clean, structure, and deliver data in Excel, CSV, JSON, or Google Sheets  
-- ☁️ **Cloud Automation** – Deploy scraping pipelines on AWS EC2 or Azure  
-- 🔁 **Recurring Bots** – Schedule scripts for daily/weekly extraction tasks
+- 🔄 **Web Scraping & Crawling** – Static and JavaScript-based sites using Playwright, Selenium  
+- 🔗 **API Integration & Data Pulling** – Connect to any REST API, extract, and format data  
+- ⚙️ **Custom API Development** – Build and deploy fast APIs using FastAPI or Flask  
+- 📄 **PDF & Document Extraction** – Extract structured data from scanned or native PDFs  
+- 📊 **Data Formatting & Delivery** – Excel, CSV, JSON, Google Sheets formatting  
+- ☁️ **Cloud Automation** – Deploy bots and pipelines on AWS EC2 or Azure  
+- 🔁 **Scheduled Data Jobs** – Automate recurring scraping and extraction tasks
 
 ---
 
@@ -36,15 +38,18 @@ Welcome to my GitHub! I'm a **Data Engineer and Automation Expert** with strong 
 - **📄 U.S. Government Scraping Pipeline (2024–2025)**  
   Scraped 30+ U.S. state legislature sites, handling:  
   ✔️ JavaScript rendering (Playwright, Selenium)  
-  ✔️ Subcommittee and PDF data extraction  
-  ✔️ Clean Excel/CSV output with proper name parsing  
-  ✔️ Headless and cloud-friendly bots
+  ✔️ PDF parsing and Excel output  
+  ✔️ Modular scraper architecture with session-level logic  
+  ✔️ Cloud-deployed bots with retry and logging
 
-- **📊 E-commerce Product Scrapers (Freelance)**  
-  Built scrapers for Amazon, Walmart, and other vendors with:  
-  ✔️ Retry logic  
-  ✔️ Proxy support  
-  ✔️ JSON/CSV output
+- **🔗 Freelance API Integrations**  
+  Built Python-based API connectors for clients pulling product, real estate, or news data  
+  ✔️ Authenticated API access (API key / token / OAuth2)  
+  ✔️ JSON → Excel/CSV pipelines using pandas  
+  ✔️ Custom dashboards with FastAPI and lightweight Flask frontends
+
+- **📊 E-commerce Product Scrapers**  
+  Amazon, Walmart, local vendor listings — with structured output and retry logic
 
 ---
 
