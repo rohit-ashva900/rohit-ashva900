@@ -1,65 +1,67 @@
-# Hi, I'm Rohit Ashva 👋
+<!-- Stylish Centered Header for GitHub README -->
+<div align="center" style="padding: 32px 0 24px 0; border-radius: 18px; background: linear-gradient(135deg, #232526 0%, #414345 100%); color: #fff; box-shadow: 0 2px 12px rgba(0,0,0,0.08);">
 
-## 🚀 Data Engineer | Freelancer | AI-Powered Data Extraction | Python, Web Scraping & API Integration Specialist
+  <h1 style="margin-bottom: 0.2em; font-size: 2.4em; letter-spacing: 2px;">
+    Rohit Ashva
+  </h1>
+  
+  <h3 style="margin-top: 0; font-weight: 500;">
+    🚀 Data Engineer | ETL/ELT & Data Warehousing | Python Automation | Web Scraping & API Integration
+  </h3>
+  <p style="max-width: 600px; margin: 12px auto 0 auto; font-size: 1.1em; font-weight: 400;">
+    Welcome to my GitHub! I'm a <b>Data Engineer</b> with strong experience in <b>Python</b>, <b>SQL</b>, and <b>cloud platforms</b> (AWS, Azure). I design production-ready pipelines, automate data workflows, and deliver structured datasets for ML, analytics, and real business outcomes.
+  </p>
 
-Welcome to my GitHub! I'm a **Data Engineer and Automation Expert** with strong experience in **Python**, **SQL**, and **cloud platforms like AWS and Azure**. I specialize in **web scraping, AI-based document understanding**, **API integration**, and building fast, scalable automation tools for real-world business use cases.
-
-I’ve recently integrated cutting-edge AI APIs like **OpenAI**, **DeepSeek**, and **DeepInfra** into data pipelines to boost extraction accuracy from unstructured sources like PDFs, multi-language text, and complex layouts.
+</div>
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-* **Languages & Frameworks:** Python 🐍, SQL 🗄️, FastAPI ⚡, Flask 🌐
-* **Web Scraping & Automation:** Playwright 🎭, Selenium 🕷️, Scrapy 🧱, BeautifulSoup 🍜, Requests 🔗
-* **AI & API Integration:** OpenAI, DeepSeek API, DeepInfra, REST APIs, OAuth2, token-based auth
-* **PDF & Document Parsing:** PyMuPDF 📄, pdfplumber, GPT-based Vision OCR (OpenAI Vision API)
-* **Data Processing & Dashboards:** pandas 🐼, JSON, CSV, Excel, **Apache Superset 📊**
-* **Orchestration & Scheduling:** **Apache Airflow 🌬️**, GitHub Actions ⏱️, cron 🕑, bash scripts
-* **Cloud Platforms:**
-
-  * **AWS:** EC2 🖥️, S3 🪣
-  * **Azure:** Data Factory 🏭, Blob Storage ☁️
-* **Output Formats:** Excel, CSV, JSON, Google Sheets
+* **Languages & Frameworks:** Python 🐍, SQL 🗄️, FastAPI ⚡, Flask 🌐  
+* **Data Engineering:** ETL/ELT workflows, data warehousing (Redshift, BigQuery, Synapse), pandas 🐼  
+* **Web Scraping & Automation:** Playwright 🎭, Selenium 🕷️, Scrapy 🧱, BeautifulSoup 🍜, Requests 🔗  
+* **API Integration:** REST APIs, OpenAI, DeepSeek, DeepInfra, OAuth2  
+* **PDF & Document Parsing:** PyMuPDF 📄, pdfplumber, OpenAI Vision  
+* **Orchestration & Scheduling:** Apache Airflow 🌬️, GitHub Actions ⏱️, cron 🕑, bash scripts  
+* **Cloud Platforms:**  
+  * **AWS:** S3 🪣, EC2 🖥️, Redshift  
+  * **Azure:** Data Factory 🏭, Blob Storage ☁️, Synapse  
+  * **GCP:** BigQuery  
+* **Output Formats:** Excel, CSV, Parquet, JSON, Google Sheets
 
 ---
 
 ## 💼 Services I Offer
 
-* 🔄 **Web Scraping & Crawling** – Static and JavaScript-based sites using Playwright, Selenium
-* 🧠 **AI-Powered Document Extraction** – Use OpenAI/DeepSeek APIs to extract tables, indexes, and structured data from PDFs
-* 🔗 **API Integration & Data Pulling** – Connect to any REST or AI API and automate extraction
-* ⚙️ **Custom API Development** – Build and deploy fast APIs using FastAPI or Flask
-* 📄 **PDF & Text Intelligence** – Extract content from noisy, scanned, or multilingual documents
-* 📊 **Data Visualization Dashboards** – Build modern dashboards using **Apache Superset**
-* ☁️ **Cloud Automation & Scheduling** – Automate workflows using **Apache Airflow**, cron, or GitHub Actions
-* 🔁 **Recurring Data Jobs** – Design and deploy scheduled pipelines with structured data delivery
+* 🔄 **ETL/ELT Pipeline Development** – Build, schedule, and monitor end-to-end data pipelines  
+* 🏢 **Data Warehousing** – Design, implement, and optimize cloud data warehouses for analytics and ML  
+* 🔄 **Web Scraping & Data Extraction** – Large-scale, reliable extraction from websites, APIs, and documents  
+* 🔗 **API Integration** – Connect, automate, and deliver data from any public or private API  
+* ⚙️ **Custom API Development** – Deploy robust APIs with FastAPI or Flask for data services  
+* 📄 **PDF & Text Extraction** – Structured parsing from complex or multilingual documents  
+* 📊 **Dashboarding** – Build data visualizations and BI dashboards with Apache Superset or export-ready formats  
+* ☁️ **Cloud Automation** – Automate and orchestrate data workflows using Airflow, Data Factory, or GitHub Actions
 
 ---
 
 ## 📂 Featured Projects
 
-* **📄 U.S. Government Scraping Pipeline (2024–2025)**
-  Scraped 30+ U.S. state legislature sites, handling:
-  ✔️ JavaScript rendering (Playwright, Selenium)
-  ✔️ PDF parsing and Excel output
-  ✔️ Modular scraper architecture with session-level logic
-  ✔️ Airflow-managed scheduling and retries
-  ✔️ Apache Superset dashboard for aggregated insights
+* **📄 U.S. Legislative Data Pipeline (2024–2025)**  
+  Scraped 30+ state legislature sites: web + PDF parsing, Airflow scheduling, output to Excel/Parquet, dashboarding via Apache Superset
 
-* **🤖 AI-Based PDF Table Extraction App**
-  Built a FastAPI app using OpenAI Vision API for extracting index tables from large construction PDFs
-  ✔️ Intelligent row-column mapping
-  ✔️ Export to CSV/JSON
-  ✔️ 90%+ accuracy on 200+ row documents
+* **🏢 ETL & Warehousing Solutions**  
+  Designed ETL workflows and built automated data warehouses in AWS Redshift and Azure Synapse for enterprise analytics
 
-* **🔗 Freelance API Integrations**
-  Built Python-based API connectors for clients pulling product, real estate, or news data
-  ✔️ Authenticated API access (API key / token / OAuth2)
-  ✔️ JSON → Excel/CSV pipelines using pandas
-  ✔️ Custom dashboards with FastAPI, Flask, and Superset
+* **🤖 AI-Powered Document Extraction**  
+  Automated PDF/scan table extraction using OpenAI Vision, DeepSeek APIs—producing high-quality training sets for ML
 
-* **📊 E-commerce Product Scrapers**
-  Amazon, Walmart, local vendor listings — with structured output and retry logic
+* **🔗 API Integrations for Real-Time Data**  
+  Built and scheduled robust connectors for product, real estate, and news APIs; transformed data for direct use in ML projects
+
+* **📊 E-commerce Scrapers & Data Delivery**  
+  Amazon, Walmart, and vendor data extraction with clean, structured output for business intelligence
 
 ---
+
+**Let’s connect if you need robust, production-ready data engineering and automation for your AI, analytics, or business projects!**
