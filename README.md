@@ -48,7 +48,7 @@
 ## 📂 Featured Projects
 
 * **📄 U.S. Legislative Data Pipeline (2024–2025)**  
-  Scraped 30+ state legislature sites: web + PDF parsing, Airflow scheduling, output to Excel/Parquet, dashboarding via Apache Superset
+  Scraped 30+ state legislature sites: web + PDF parsing, Airflow scheduling, output to Excel
 
 * **🏢 ETL & Warehousing Solutions**  
   Designed ETL workflows and built automated data warehouses in AWS Redshift and Azure Synapse for enterprise analytics
