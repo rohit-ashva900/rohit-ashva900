@@ -6,10 +6,10 @@
   </h1>
   
   <h3 style="margin-top: 0; font-weight: 500;">
-    🚀 Data Engineer | ETL/ELT & Data Warehousing | Python Automation | Web Scraping & API Integration
+    🚀 Data Engineer | ETL/ELT & Data Extraction | Automation & Bot Development
   </h3>
   <p style="max-width: 600px; margin: 12px auto 0 auto; font-size: 1.1em; font-weight: 400;">
-    Welcome to my GitHub! I'm a <b>Data Engineer</b> with strong experience in <b>Python</b>, <b>SQL</b>, and <b>cloud platforms</b> (AWS, Azure). I design production-ready pipelines, automate data workflows, and deliver structured datasets for ML, analytics, and real business outcomes.
+    Welcome! I’m a <b>Cloud Data Engineer</b> specializing in Python automation, web scraping, and high-volume data extraction. I build production-ready pipelines, interactive bots, and user interfaces to streamline data workflows.
   </p>
 
 </div>
@@ -18,15 +18,17 @@
 
 ## 🛠️ Skills & Technologies
 
-* **Languages & Frameworks:** Python 🐍, SQL 🗄️, FastAPI ⚡, Flask 🌐  
-* **Data Engineering:** ETL/ELT workflows, data warehousing (Redshift, BigQuery, Synapse), pandas 🐼  
+* **Languages & Frameworks:** Python 🐍, SQL 🗄️, Flask 🌐, Streamlit ⚡  
+* **Data Engineering:** ETL/ELT workflows, pandas 🐼  
 * **Web Scraping & Automation:** Playwright 🎭, Selenium 🕷️, Scrapy 🧱, BeautifulSoup 🍜, Requests 🔗  
+* **Anti-Bot & CAPTCHA Handling:** 2Captcha, custom scripts, dynamic challenge bypass  
+* **Bot Development & GUI Applications:** Interactive bots and lightweight UIs using Streamlit and Flask  
 * **API Integration:** REST APIs, OpenAI, DeepSeek, DeepInfra, OAuth2  
 * **PDF & Document Parsing:** PyMuPDF 📄, pdfplumber, OpenAI Vision  
 * **Orchestration & Scheduling:** Apache Airflow 🌬️, GitHub Actions ⏱️, cron 🕑, bash scripts  
 * **Cloud Platforms:**  
-  * **AWS:** S3 🪣, EC2 🖥️, Redshift  
-  * **Azure:** Data Factory 🏭, Blob Storage ☁️, Synapse  
+  * **AWS:** S3 🪣, EC2 🖥️  
+  * **Azure:** Blob Storage ☁️  
   * **GCP:** BigQuery  
 * **Output Formats:** Excel, CSV, Parquet, JSON, Google Sheets
 
@@ -34,34 +36,31 @@
 
 ## 💼 Services I Offer
 
-* 🔄 **ETL/ELT Pipeline Development** – Build, schedule, and monitor end-to-end data pipelines  
-* 🏢 **Data Warehousing** – Design, implement, and optimize cloud data warehouses for analytics and ML  
-* 🔄 **Web Scraping & Data Extraction** – Large-scale, reliable extraction from websites, APIs, and documents  
-* 🔗 **API Integration** – Connect, automate, and deliver data from any public or private API  
-* ⚙️ **Custom API Development** – Deploy robust APIs with FastAPI or Flask for data services  
-* 📄 **PDF & Text Extraction** – Structured parsing from complex or multilingual documents  
-* 📊 **Dashboarding** – Build data visualizations and BI dashboards with Apache Superset or export-ready formats  
-* ☁️ **Cloud Automation** – Automate and orchestrate data workflows using Airflow, Data Factory, or GitHub Actions
+* 🔄 **ETL/ELT Pipeline Development** – End-to-end data workflows, scheduling & monitoring  
+* 🤖 **Bot Development & GUI Applications** – Build interactive bots and user-friendly interfaces for data extraction with Streamlit or Flask  
+* 🔍 **Web Scraping & Data Extraction** – Large-scale, reliable extraction from websites, APIs & documents  
+* 🛡️ **Advanced CAPTCHA & Anti-Bot Solutions** – Bypass dynamic CAPTCHA and anti-bot measures for consistent data access  
+* 🔗 **API Integration** – Connect & automate data from any REST endpoint  
+* ⚙️ **Custom API Development** – Deploy robust data services with Flask  
+* 📄 **PDF & Text Extraction** – Structured parsing from complex or multilingual files  
+* ☁️ **Cloud Automation** – Orchestrate workflows with Airflow, Data Factory or GitHub Actions
 
 ---
 
 ## 📂 Featured Projects
 
 * **📄 U.S. Legislative Data Pipeline (2024–2025)**  
-  Scraped 30+ state legislature sites: web + PDF parsing, Airflow scheduling, output to Excel
+  Scraped 30+ state legislature sites (web & PDF), scheduled via Airflow, outputs to Excel.
 
-* **🏢 ETL & Warehousing Solutions**  
-  Designed ETL workflows and built automated data warehouses in AWS Redshift and Azure Synapse for enterprise analytics
+* **🤖 AI-Powered Bots & Interfaces**  
+  Developed custom automation bots and Streamlit dashboards for end-user data insights.
 
-* **🤖 AI-Powered Document Extraction**  
-  Automated PDF/scan table extraction using OpenAI Vision, DeepSeek APIs—producing high-quality training sets for ML
+* **📊 Real-Time Data Connectors**  
+  Built scheduled connectors for product, real estate & news APIs—transforming raw feeds for ML.
 
-* **🔗 API Integrations for Real-Time Data**  
-  Built and scheduled robust connectors for product, real estate, and news APIs; transformed data for direct use in ML projects
-
-* **📊 E-commerce Scrapers & Data Delivery**  
-  Amazon, Walmart, and vendor data extraction with clean, structured output for business intelligence
+* **🛒 E-commerce Scrapers**  
+  Extracted Amazon, Walmart & vendor data at scale, delivering clean datasets for BI.
 
 ---
 
-**Let’s connect if you need robust, production-ready data engineering and automation for your AI, analytics, or business projects!**
+**Let’s connect** if you need robust, production-ready data engineering, automation, and interactive solutions for your AI, analytics, or business projects!
