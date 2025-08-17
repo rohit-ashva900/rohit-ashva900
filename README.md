@@ -6,7 +6,7 @@
   </h1>
   
   <h3 style="margin-top: 0; font-weight: 500;">
-    🚀 Data Engineer | ETL/ELT & Data Extraction | Automation & Bot Development
+    🚀 Data Engineer | ETL/ELT & Data Extraction | Automation & Bot Development | FastAPI
   </h3>
   <p style="max-width: 600px; margin: 12px auto 0 auto; font-size: 1.1em; font-weight: 400;">
     Welcome! I’m a <b>Cloud Data Engineer</b> specializing in Python automation, web scraping, and high-volume data extraction. I build production-ready pipelines, interactive bots, and user interfaces to streamline data workflows.
@@ -18,7 +18,7 @@
 
 ## 🛠️ Skills & Technologies
 
-* **Languages & Frameworks:** Python 🐍, SQL 🗄️, Flask 🌐, Streamlit ⚡  
+* **Languages & Frameworks:** Python 🐍, SQL 🗄️, FastAPI 🌐, Streamlit ⚡  
 * **Data Engineering:** ETL/ELT workflows, pandas 🐼  
 * **Web Scraping & Automation:** Playwright 🎭, Selenium 🕷️, Scrapy 🧱, BeautifulSoup 🍜, Requests 🔗  
 * **Anti-Bot & CAPTCHA Handling:** 2Captcha, custom scripts, dynamic challenge bypass  
